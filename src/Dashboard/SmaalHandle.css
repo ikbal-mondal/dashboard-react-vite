@@ -1,0 +1,12 @@
+@media (min-width: 1025px) {
+    .small-menu {
+      display: none;
+    }
+}
+
+@media (min-width: 1025px) {
+    .small-Table {
+       display: grid;
+       grid-template-columns: repeat(2,1fr);
+    }
+}
